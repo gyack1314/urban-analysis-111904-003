@@ -19,14 +19,14 @@
     },
     {
       "path": "followups.parquet",
-      "bytes": 138133,
-      "sha256": "837eee60804837288f246c737b034794ec931237154d68c9c2b00894fc9ad036",
+      "bytes": 138169,
+      "sha256": "562e7ec87a788f3c84a65ea4c683b348088437233a2cef5d72a5b4618a087c95",
       "rows": 180
     },
     {
       "path": "households.parquet",
-      "bytes": 37817,
-      "sha256": "588a562c9f5b53042148ea61d3f968796d3472a4dbfda0b93194f9a5e8e6b599",
+      "bytes": 37847,
+      "sha256": "0a913162b5ea7682914f8bbb5899c4967261305929578a3e135801507f5549e6",
       "rows": 60
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "path": "seed.json",
-      "bytes": 384839,
-      "sha256": "990db9a2577467ab1635c39dd59c64a92420986afa405353ee80d41dd2c36d43"
+      "bytes": 384859,
+      "sha256": "6c673b9b9d7a55445e35aa7ce4ad620c242fe7506517600e59086d0f9deabd45"
     },
     {
       "path": "study-windows.json",

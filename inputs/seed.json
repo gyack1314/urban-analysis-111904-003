@@ -13989,7 +13989,7 @@
     {
       "household": "H004",
       "baseline_dwelling": "D004",
-      "baseline_area": "nearby",
+      "baseline_area": "renewal",
       "income_low": 5240,
       "income_high": 7240,
       "registered_at": "2025-01-01"
@@ -14037,7 +14037,7 @@
     {
       "household": "H010",
       "baseline_dwelling": "D010",
-      "baseline_area": "nearby",
+      "baseline_area": "renewal",
       "income_low": 5600,
       "income_high": 7600,
       "registered_at": "2025-01-01"
@@ -14085,7 +14085,7 @@
     {
       "household": "H016",
       "baseline_dwelling": "D016",
-      "baseline_area": "nearby",
+      "baseline_area": "renewal",
       "income_low": 5960,
       "income_high": 7960,
       "registered_at": "2025-01-01"
@@ -14133,7 +14133,7 @@
     {
       "household": "H022",
       "baseline_dwelling": "D022",
-      "baseline_area": "nearby",
+      "baseline_area": "renewal",
       "income_low": 6320,
       "income_high": 8320,
       "registered_at": "2025-01-01"
@@ -14181,7 +14181,7 @@
     {
       "household": "H028",
       "baseline_dwelling": "D028",
-      "baseline_area": "nearby",
+      "baseline_area": "renewal",
       "income_low": 6680,
       "income_high": 8680,
       "registered_at": "2025-01-01"
@@ -14229,7 +14229,7 @@
     {
       "household": "H034",
       "baseline_dwelling": "D034",
-      "baseline_area": "nearby",
+      "baseline_area": "renewal",
       "income_low": 7040,
       "income_high": 9040,
       "registered_at": "2025-01-01"
@@ -14277,7 +14277,7 @@
     {
       "household": "H040",
       "baseline_dwelling": "D040",
-      "baseline_area": "nearby",
+      "baseline_area": "renewal",
       "income_low": 7400,
       "income_high": 9400,
       "registered_at": "2025-01-01"
@@ -14325,7 +14325,7 @@
     {
       "household": "H046",
       "baseline_dwelling": "D046",
-      "baseline_area": "nearby",
+      "baseline_area": "renewal",
       "income_low": 7760,
       "income_high": 9760,
       "registered_at": "2025-01-01"
@@ -14373,7 +14373,7 @@
     {
       "household": "H052",
       "baseline_dwelling": "D052",
-      "baseline_area": "nearby",
+      "baseline_area": "renewal",
       "income_low": 8120,
       "income_high": 10120,
       "registered_at": "2025-01-01"
@@ -14421,7 +14421,7 @@
     {
       "household": "H058",
       "baseline_dwelling": "D058",
-      "baseline_area": "nearby",
+      "baseline_area": "renewal",
       "income_low": 8480,
       "income_high": 10480,
       "registered_at": "2025-01-01"
@@ -14561,7 +14561,7 @@
       "wave": 3,
       "known_at": "2025-04-05",
       "responded": true,
-      "current_area": "nearby",
+      "current_area": "renewal",
       "rent_cny": 2380,
       "subsidy_cny": 0,
       "moved_reason": null
@@ -14741,7 +14741,7 @@
       "wave": 3,
       "known_at": "2025-04-05",
       "responded": true,
-      "current_area": "nearby",
+      "current_area": "renewal",
       "rent_cny": 2500,
       "subsidy_cny": 0,
       "moved_reason": null
@@ -14921,7 +14921,7 @@
       "wave": 3,
       "known_at": "2025-04-05",
       "responded": true,
-      "current_area": "nearby",
+      "current_area": "renewal",
       "rent_cny": 2620,
       "subsidy_cny": 0,
       "moved_reason": null
@@ -15101,7 +15101,7 @@
       "wave": 3,
       "known_at": "2025-04-05",
       "responded": true,
-      "current_area": "nearby",
+      "current_area": "renewal",
       "rent_cny": 2740,
       "subsidy_cny": 0,
       "moved_reason": null
@@ -15281,7 +15281,7 @@
       "wave": 3,
       "known_at": "2025-04-05",
       "responded": true,
-      "current_area": "nearby",
+      "current_area": "renewal",
       "rent_cny": 2860,
       "subsidy_cny": 0,
       "moved_reason": null
@@ -15461,7 +15461,7 @@
       "wave": 3,
       "known_at": "2025-04-05",
       "responded": true,
-      "current_area": "nearby",
+      "current_area": "renewal",
       "rent_cny": 2980,
       "subsidy_cny": 0,
       "moved_reason": null
@@ -15641,7 +15641,7 @@
       "wave": 3,
       "known_at": "2025-04-05",
       "responded": true,
-      "current_area": "nearby",
+      "current_area": "renewal",
       "rent_cny": 3100,
       "subsidy_cny": 0,
       "moved_reason": null
@@ -15821,7 +15821,7 @@
       "wave": 3,
       "known_at": "2025-04-05",
       "responded": true,
-      "current_area": "nearby",
+      "current_area": "renewal",
       "rent_cny": 3220,
       "subsidy_cny": 0,
       "moved_reason": null
@@ -16001,7 +16001,7 @@
       "wave": 3,
       "known_at": "2025-04-05",
       "responded": true,
-      "current_area": "nearby",
+      "current_area": "renewal",
       "rent_cny": 3340,
       "subsidy_cny": 0,
       "moved_reason": null
@@ -16181,7 +16181,7 @@
       "wave": 3,
       "known_at": "2025-04-05",
       "responded": true,
-      "current_area": "nearby",
+      "current_area": "renewal",
       "rent_cny": 3460,
       "subsidy_cny": 0,
       "moved_reason": null
