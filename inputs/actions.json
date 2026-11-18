@@ -1,0 +1,13 @@
+[
+  {
+    "action": "append_followup",
+    "household": "H004",
+    "wave": 11,
+    "responded": true,
+    "current_area": "remote",
+    "rent_cny": 2800,
+    "subsidy_cny": 600,
+    "moved_reason": "affordability",
+    "known_at": "2026-01-10"
+  }
+]

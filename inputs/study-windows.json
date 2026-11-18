@@ -1,0 +1,21 @@
+{
+  "research_months": [
+    "2025-01",
+    "2025-09"
+  ],
+  "diagnosis_months": [
+    "2025-10",
+    "2025-12"
+  ],
+  "comparison_requests": [
+    {
+      "target": "renewal",
+      "candidate_buffers_m": [
+        500,
+        1000,
+        2500
+      ],
+      "target_population": "baseline_households"
+    }
+  ]
+}

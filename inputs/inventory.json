@@ -1,0 +1,55 @@
+{
+  "files": [
+    {
+      "path": "actions.json",
+      "bytes": 262,
+      "sha256": "500ab1c063d3705364795752d90018bf3b935b68445a8de964e34fe1a01d67c4"
+    },
+    {
+      "path": "areas.parquet",
+      "bytes": 2583,
+      "sha256": "a22374426a1f20404ffc563c191d88fe5f6067a24307cd302f607a76fc553bb6",
+      "rows": 4
+    },
+    {
+      "path": "contracts.parquet",
+      "bytes": 292692,
+      "sha256": "d89e78f493560ecaa0540da5d63f1830f87c09327bc72208534442dfc35dd54a",
+      "rows": 474
+    },
+    {
+      "path": "followups.parquet",
+      "bytes": 138133,
+      "sha256": "837eee60804837288f246c737b034794ec931237154d68c9c2b00894fc9ad036",
+      "rows": 180
+    },
+    {
+      "path": "households.parquet",
+      "bytes": 37817,
+      "sha256": "588a562c9f5b53042148ea61d3f968796d3472a4dbfda0b93194f9a5e8e6b599",
+      "rows": 60
+    },
+    {
+      "path": "housing_events.parquet",
+      "bytes": 2094,
+      "sha256": "ba6632ea3373ba9953d2c1fd1ce111b816cc485732b3e1df48a2a847590849ce",
+      "rows": 2
+    },
+    {
+      "path": "listings.parquet",
+      "bytes": 797634,
+      "sha256": "dbacd28caae0432ee41e723e637a9fc9ce72071aceaaae05728b61a61f22b919",
+      "rows": 842
+    },
+    {
+      "path": "seed.json",
+      "bytes": 384839,
+      "sha256": "990db9a2577467ab1635c39dd59c64a92420986afa405353ee80d41dd2c36d43"
+    },
+    {
+      "path": "study-windows.json",
+      "bytes": 337,
+      "sha256": "f44c63bdc2f79588cf9a81d2f6efd63854d5385c26faa7061b6419301f0ee5d8"
+    }
+  ]
+}
